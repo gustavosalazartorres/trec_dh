@@ -13,7 +13,8 @@ https://trec-product-search.github.io/index.html
 * Code to use:
   - SBERT https://www.sbert.net/docs/training/overview.html
   - Pythia https://github.com/EleutherAI/pythia
-Dataset:
+
+#### Dataset:
 1. Sentence Transformers Embedding Data https://huggingface.co/datasets/sentence-transformers/embedding-training-data
 2. Sentence Transfomers Reddit Data
 https://huggingface.co/datasets/sentence-transformers/reddit-title-body
