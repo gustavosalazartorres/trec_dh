@@ -2,7 +2,9 @@ This repo holds the code for the DH team participating in the TREC 2023 Product 
 
 #### Team members:
 Roman Grebennikov (@RomanGrebennikovDH)
+
 Michel Oleynik ()
+
 Gustavo Salazar (@gustavosalazartorres)
 
 #### TREC Challenge website
